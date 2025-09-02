@@ -287,5 +287,5 @@ npm run build
 
 **Hariharan Sudhagar**
 - GitHub: [@hariharan-sudhagar](https://github.com/hariharan-sudhagar)
-- Email: your.email@example.com
+- Email: hariharan@gmail.com
 
