@@ -100,6 +100,7 @@ php artisan serve
 ```
 
 **🔗 Live Backend:** [http://13.49.224.75/](http://13.49.224.75/)
+**🔗 Live Frontend:** [](https://my-new-pos.netlify.app/)
 
 ### 2️⃣ React Web Dashboard Setup
 
@@ -229,8 +230,6 @@ APP_URL=http://localhost
 
 ## 🔐 Security Features
 
-- ✅ JWT token-based authentication
-- ✅ Password encryption (bcrypt)
 - ✅ CORS protection
 - ✅ SQL injection prevention
 - ✅ XSS protection
@@ -239,16 +238,6 @@ APP_URL=http://localhost
 
 ---
 
-## 📈 Performance Optimizations
-
-- 🚀 Database query optimization
-- 💾 Redis caching (optional)
-- 📱 Lazy loading in mobile apps
-- ⚡ API response compression
-- 🔄 Connection pooling
-- 📊 Efficient state management
-
----
 
 ## 🧪 Testing
 
@@ -270,8 +259,6 @@ flutter test
 ### Backend (AWS EC2)
 1. Set up EC2 instance with PHP, MySQL, Nginx
 2. Clone repository and configure environment
-3. Set up SSL certificate
-4. Configure domain and DNS
 
 ### Frontend (Netlify/Vercel)
 ```bash
@@ -295,11 +282,6 @@ npm run build
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👨‍💻 Author
 
@@ -307,24 +289,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@hariharan-sudhagar](https://github.com/hariharan-sudhagar)
 - Email: your.email@example.com
 
----
-
-## 🆘 Support
-
-For support, email support@restaurant-pos.com or create an issue in the repository.
-
----
-
-## 🔮 Future Enhancements
-
-- [ ] Multi-restaurant support
-- [ ] Advanced analytics with ML insights
-- [ ] Integration with popular payment gateways
-- [ ] Inventory management system
-- [ ] Customer loyalty program
-- [ ] Voice ordering capabilities
-- [ ] AI-powered menu recommendations
-
----
-
-**⭐ If you found this project helpful, please give it a star!**
