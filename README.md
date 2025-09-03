@@ -53,20 +53,16 @@ This project consists of three main components:
 - 🔔 Real-time order alerts
 
 ### 🔧 Backend API (Laravel)
-- 🔐 JWT authentication & authorization
 - 📡 RESTful API endpoints
 - 🗄️ MySQL database with optimized queries
-- 📧 Email notifications
 - 🔄 Real-time data synchronization
-- 📈 Analytics data processing
 
----
 
 ## 🛠️ Tech Stack
 
 | Component | Technologies |
 |-----------|-------------|
-| **Frontend Web** | React 18, Tailwind CSS, Axios, React Router |
+| **Frontend Web** | React 18, CSS, Axios , React Router |
 | **Backend API** | Laravel 10, PHP 8.2, MySQL 8.0, JWT Auth |
 | **Mobile Apps** | Flutter 3.x, Dart, Provider/Riverpod |
 | **Database** | MySQL 8.0 |
