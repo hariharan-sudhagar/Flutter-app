@@ -46,15 +46,12 @@ This project consists of three main components:
 - 📱 Push notifications
 
 ### 👨‍🍳 Kitchen POS System (Flutter)
-- 📋 Incoming order notifications
+- 📋 Incoming order Display
 - ✅ Order status management (Pending → In Progress → Ready → Delivered)
-- ⏱️ Preparation time tracking
-- 📊 Kitchen performance metrics
-- 🔔 Real-time order alerts
 
 ### 🔧 Backend API (Laravel)
 - 📡 RESTful API endpoints
-- 🗄️ MySQL database with optimized queries
+- 🗄️ MySQL database
 - 🔄 Real-time data synchronization
 
 
